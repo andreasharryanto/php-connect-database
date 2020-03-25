@@ -27,7 +27,6 @@ mysqli_close($conn);
 <!DOCTYPE html>
 <head>
     <title>University Website</title>
-    <script type="text/javascript" src="index.js"></script>
 </head>
 <body>
     <form action="" method="POST">
